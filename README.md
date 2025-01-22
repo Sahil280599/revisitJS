@@ -1,2 +1,4 @@
 # revisitJS
-created this repo cuz I'm bored enough so thought why don't I just again solve some problems and tickle my mind to make it better 
+Hey there! 👋
+
+Created this repo because boredom struck 🤷‍♂️, and instead of scrolling endlessly and delivering project for clients, I decided to put my brain to work. 🛠️ Why not solve some problems, have some fun, and give my mind a little workout, right? 💡
